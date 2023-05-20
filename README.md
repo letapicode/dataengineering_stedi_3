@@ -11,6 +11,10 @@ Three JSON data sources were used in this project, coming from STEDI Step Traine
 - Step Trainer Records: Contains motion sensor data from the STEDI Step Trainers.
 - Accelerometer Records: Contains motion data from the mobile app's accelerometer.
 
+Data GitHub Link:
+
+https://github.com/udacity/nd027-Data-Engineering-Data-Lakes-AWS-Exercises/tree/main/project/starter
+
 These data sources were ingested into the AWS environment and stored in Amazon S3 buckets.
 
 # 3. Data Processing Pipeline
