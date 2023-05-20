@@ -48,3 +48,5 @@ Customer and Accelerometer data was matched and curated into a single table, ass
 Step Trainer and Accelerometer data was aggregated to create a final curated table containing data for the machine learning model, ensuring that only data from customers who agreed to share their data was included.
 
 In conclusion, the data engineering work performed for the STEDI Human Balance Analytics project successfully provided Data Scientists with sanitized, matched, and aggregated data for training a machine learning model. The data lakehouse solution built on AWS allowed for efficient and scalable data processing, making it suitable for future data growth and additional data sources.
+
+
