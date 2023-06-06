@@ -1,4 +1,4 @@
-## STEDI Human Balance Analytics: Data Engineering Report
+## STEDI Human Balance Analytics
 # 1. Introduction
 The purpose of this report is to outline the data engineering work performed for the STEDI Human Balance Analytics project. The project involved building a data lakehouse solution on AWS to process and curate sensor data from STEDI Step Trainers and mobile apps, making it available for Data Scientists to train a machine learning model for detecting steps accurately in real-time.
 
